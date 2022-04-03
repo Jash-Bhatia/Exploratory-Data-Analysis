@@ -6,3 +6,5 @@ In the Quant_Stats_1 file, we plot histograms, pie charts and box plots. We lear
 
 
 In Descriptive_Stats part 1, we learn how to augment data to meaningful data types and to deal with missing values in the data. In part 2 we further explore our data using regression plots, box plots and heatmaps 
+
+In Descriptive_Stats_2 we plot various line, bar and area charts for our data
